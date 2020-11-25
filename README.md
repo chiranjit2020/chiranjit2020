@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[banner]: https://user-images.githubusercontent.com/34670651/91280744-d3a9e100-e7a4-11ea-881f-660873418cfc.jpg
-[website]: https://amartadey.com/
-[twitter]: https://twitter.com/Amartadey/
-[linkedin]: https://www.linkedin.com/in/amartadey/
+
+![Chiranjit's github stats](https://github-readme-stats.vercel.app/api?username=chiranjit2020&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjit2020)](https://github.com/anuraghazra/github-readme-stats)
