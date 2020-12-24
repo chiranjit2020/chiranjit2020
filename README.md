@@ -18,33 +18,35 @@ Here are some ideas to get you started:
 ![Chiranjit's github stats](https://github-readme-stats.vercel.app/api?username=chiranjit2020&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjit2020)](https://github.com/anuraghazra/github-readme-stats)
 
-### My creation -
+### My creations -
 
-##### BACK2TOP Button: https://github.com/chiranjit2020/back2top
+##### [1. BACK2TOP Button](https://github.com/chiranjit2020/back2top)
 
-##### UPOR JS: https://github.com/chiranjit2020/upor-js
+##### [2. UPOR JS](https://github.com/chiranjit2020/upor-js)
 
-##### LIFT KARA DE JS: https://github.com/chiranjit2020/lift-kara-de
+##### [3. LIFT KARA DE JS](https://github.com/chiranjit2020/lift-kara-de)
 
-##### Sandesh JS Library (Fetch API): https://github.com/chiranjit2020/sandesh-lib
+##### [4. Sandesh JS Library (Fetch API)](https://github.com/chiranjit2020/sandesh-lib)
 
-##### Weather App: https://github.com/chiranjit2020/Weather-App
+##### [5. Web Resourses](https://chiranjit2020.github.io/docs-resourses/)
 
-##### PhotoGallery: https://github.com/learncomputeracademy/PhotoGallery
+##### [6. Weather App](https://github.com/chiranjit2020/Weather-App)
 
-##### Smooth Banner Slider: https://github.com/learncomputeracademy/banner-slider 
+##### [7. PhotoGallery](https://github.com/learncomputeracademy/PhotoGallery)
 
-##### Glassmorphism Calculator: https://github.com/chiranjit2020/glass-calculator
+##### [8. Smooth Banner Slider](https://github.com/learncomputeracademy/banner-slider)
 
-##### Calender: https://github.com/chiranjit2020/calender
+##### [9. Glassmorphism Calculator](https://github.com/chiranjit2020/glass-calculator)
 
-##### Code Editor(v1.1 Beta): https://github.com/chiranjit2020/lca-editor
+##### [10. Calender](https://github.com/chiranjit2020/calender)
 
-##### Ratio Calculator: https://github.com/chiranjit2020/ratio-calculator
+##### [11. Code Editor(v1.1 Beta)](https://github.com/chiranjit2020/lca-editor)
 
-##### Navbar Active/Remove class: https://github.com/chiranjit2020/navbar
+##### [Ratio Calculator](https://github.com/chiranjit2020/ratio-calculator)
 
-##### CSS Lightbox(No Js): https://github.com/chiranjit2020/css-lightbox
+##### [Navbar Active/Remove class](https://github.com/chiranjit2020/navbar)
 
-##### TODO List: https://github.com/chiranjit2020/todolist
+##### [CSS Lightbox(No Js)](https://github.com/chiranjit2020/css-lightbox)
+
+##### [TODO List](https://github.com/chiranjit2020/todolist)
 
