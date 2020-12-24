@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 
 ##### Weather App: https://github.com/chiranjit2020/Weather-App
 
+##### PhotoGallery: https://github.com/learncomputeracademy/PhotoGallery
+
+##### Smooth Banner Slider: https://github.com/learncomputeracademy/banner-slider 
+
 ##### Glassmorphism Calculator: https://github.com/chiranjit2020/glass-calculator
 
 ##### Calender: https://github.com/chiranjit2020/calender
