@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ##### [4. Sandesh JS Library (Fetch API)](https://github.com/chiranjit2020/sandesh-lib)
 
-##### [5. Web Resourses*](https://chiranjit2020.github.io/docs-resourses/)
+##### [5. Web Resourses*](https://github.com/chiranjit2020/docs-resourses)
 
 ##### [6. Weather App](https://github.com/chiranjit2020/Weather-App)
 
