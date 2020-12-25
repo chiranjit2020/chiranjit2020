@@ -50,3 +50,5 @@ Here are some ideas to get you started:
 
 ##### [15. TODO List](https://github.com/chiranjit2020/todolist)
 
+##### [16. CSS Accordion](https://github.com/chiranjit2020/css-accordion)
+
