@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### My creations -
 
-##### [1. BACK2TOP Button](https://github.com/chiranjit2020/back2top)
+##### [1. BACK2TOP JS](https://github.com/chiranjit2020/back2top)
 
 ##### [2. UPOR JS](https://github.com/chiranjit2020/upor-js)
 
