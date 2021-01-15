@@ -1,6 +1,9 @@
 <!--
 **amartadey/amartadey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+> Web Design is so simple until you know the rules. - C. Karmakar
+
+> Design is easy if you understand the composition properly. - C. Karmakar
 
 - 🔭 I’m currently working on - Favourite Music Player using Vanilla JavaScript
 - 🌱 I’m currently learning - Vanilla JavaScript, React JS, Node JS, Express JS, MongoDB, Electron JS, HTML, CSS, UI/UX Design
