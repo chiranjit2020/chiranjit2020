@@ -4,7 +4,7 @@
 > Web Design is so simple until you know the rules. - C. Karmakar
 
 > Design is easy if you understand the composition properly. - C. Karmakar
-
+***
 - 🔭 I’m currently working on - Favourite Music Player using Vanilla JavaScript
 - 🌱 I’m currently learning - Vanilla JavaScript, React JS, Node JS, Express JS, MongoDB, Electron JS, HTML, CSS, UI/UX Design
 - 📫 How to reach me: chiranjit.rick002@gmail.com
@@ -16,10 +16,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+***
 ![Chiranjit's github stats](https://github-readme-stats.vercel.app/api?username=chiranjit2020&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjit2020)](https://github.com/anuraghazra/github-readme-stats)
-
+***
 ### My creations -
 
 ##### [1. BACK2TOP JS](https://github.com/chiranjit2020/back2top)
