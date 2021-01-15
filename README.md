@@ -52,3 +52,5 @@ Here are some ideas to get you started:
 
 ##### [16. CSS Accordion](https://github.com/chiranjit2020/css-accordion)
 
+##### [17. LCA Docs](https://github.com/learncomputeracademy/docs-resourse)
+
