@@ -54,3 +54,5 @@ Here are some ideas to get you started:
 
 ##### [17. LCA Docs](https://github.com/learncomputeracademy/docs-resourse)
 
+##### [18. Find GitHub Users](https://learncomputeracademy.github.io/github-profile/)
+
