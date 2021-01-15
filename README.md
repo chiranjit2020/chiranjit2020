@@ -1,11 +1,9 @@
 <!--
 **amartadey/amartadey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on - Favourite Music Player using Vanilla JavaScript
-- 🌱 I’m currently learning - Vanilla JavaScript, React Js, Node Js, Express Js, MongoDB, HTML, CSS
+- 🌱 I’m currently learning - Vanilla JavaScript, React JS, Node JS, Express JS, MongoDB, Electron JS, HTML, CSS, UI/UX Design
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
