@@ -61,4 +61,4 @@
 
 ##### [19. Content Placeholder](https://chiranjit2020.github.io/content-placeholder/index.html)
 
-##### [20.]
+##### [20. Double Vertical Slider](https://chiranjit2020.github.io/double-vertical-slider/index.html)
