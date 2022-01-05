@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on - Favourite Music Player using Vanilla JavaScript
 - 🌱 I’m currently learning - Vanilla JavaScript, React JS, Node JS, Express JS, MongoDB, Electron JS, HTML, CSS, UI/UX Design
 - 📫 How to reach me: chiranjit.rick002@gmail.com
+- :globe_with_meridians:
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
