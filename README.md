@@ -58,3 +58,6 @@
 
 ##### [18. Find GitHub Users](https://learncomputeracademy.github.io/github-profile/)
 
+##### [19. Content Placeholder](https://chiranjit2020.github.io/content-placeholder/index.html)
+
+
