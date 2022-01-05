@@ -5,8 +5,8 @@
 
 > Design is easy if you understand the composition properly. - C. Karmakar
 ***
-- 🔭 I’m currently working on - Favourite Music Player using Vanilla JavaScript
-- 🌱 I’m currently learning - Vanilla JavaScript, React JS, Node JS, Express JS, MongoDB, Electron JS, HTML, CSS, UI/UX Design
+- 🔭 I’m currently working on - Budget Tracker using Vanilla JavaScript
+- 🌱 I’m currently learning - Vanilla JavaScript, React JS, Node JS, Express JS, MongoDB, Electron JS, HTML, CSS, PHP, Python, UI/UX Design
 - 📫 How to reach me: chiranjit.rick002@gmail.com
 - :globe_with_meridians: [My Portfolio Website](https://chiranjit2020.github.io/portfolio/index.html)
 <!--
@@ -64,3 +64,5 @@
 ##### [20. Double Vertical Slider](https://chiranjit2020.github.io/double-vertical-slider/index.html)
 
 ##### [21. Button Ripple Effect](https://chiranjit2020.github.io/button-ripple-effect/index.html)
+
+##### [22. Budget Tracker](https://chiranjit2020.github.io/budget-tracker/index.html)
