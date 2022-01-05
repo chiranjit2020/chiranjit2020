@@ -62,3 +62,5 @@
 ##### [19. Content Placeholder](https://chiranjit2020.github.io/content-placeholder/index.html)
 
 ##### [20. Double Vertical Slider](https://chiranjit2020.github.io/double-vertical-slider/index.html)
+
+##### [21. Button Ripple Effect](https://chiranjit2020.github.io/button-ripple-effect/index.html)
