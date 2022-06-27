@@ -1,7 +1,7 @@
 <!--
 **amartadey/amartadey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-> Web Design is so simple until you know the rules. - C. Karmakar
+> Web Design is so easy until you know the rules. - C. Karmakar
 
 > Design is easy if you understand the composition properly. - C. Karmakar
 ***
