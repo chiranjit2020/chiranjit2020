@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning - Vanilla JavaScript, React JS, Node JS, Express JS, MongoDB, Electron JS, HTML, CSS, PHP, Python, UI/UX Design
 - 📫 How to reach me: chiranjit.rick002@gmail.com
 - :globe_with_meridians: [My Portfolio Website](https://chiranjit2020.github.io/portfolio/index.html)
+- [Zindex Framework](https://zindex-framework.netlify.app/)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
