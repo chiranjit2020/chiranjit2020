@@ -1,4 +1,4 @@
-<!--
+4<!--
 **amartadey/amartadey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 > Web Design is so easy until you know the rules. - C. Karmakar
@@ -6,7 +6,7 @@
 > Design is easy if you understand the composition properly. - C. Karmakar
 ***
 - 🔭 I’m currently working on - Budget Tracker using Vanilla JavaScript
-- 🌱 I’m currently learning - Vanilla JavaScript, React JS, Node JS, Express JS, MongoDB, Electron JS, HTML, CSS, PHP, Python, UI/UX Design
+- 🌱 I’m currently learning - JavaScript, React JS, HTML, CSS, PHP, WordPress UI/UX Design
 - 📫 How to reach me: chiranjit.rick002@gmail.com
 - :globe_with_meridians: [My Portfolio Website](https://chiranjit2020.github.io/portfolio/index.html)
 - [Zindex Framework](https://zindex-framework.netlify.app/)
