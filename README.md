@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on - Budget Tracker using Vanilla JavaScript
 - 🌱 I’m currently learning - JavaScript, React JS, HTML, CSS, PHP, WordPress UI/UX Design
 - 📫 How to reach me: chiranjit.rick002@gmail.com
-- :globe_with_meridians: [My Portfolio Website](https://chiranjit2020.github.io/portfolio/index.html)
+- :globe_with_meridians: [My Portfolio Website](https://chiranjit2020.github.io)
 - [Zindex Framework](https://zindex-framework.netlify.app/)
 <!--
 - 👯 I’m looking to collaborate on ...
