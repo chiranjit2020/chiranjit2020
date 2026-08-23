@@ -74,7 +74,7 @@ A different way of thinking about responsive interfaces.
 
 ### Frontend
 
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js`
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Hyperscript`
 
 I'm especially interested in:
 
@@ -88,7 +88,7 @@ I'm especially interested in:
 
 ### Backend
 
-`PHP` · `Node.js` · `Express` · `Python` · `Laravel`
+`PHP` · `WordPress` · `Laravel` · `Node.js` · `Express` · `HTMX` · `Python` · `Flask`
 
 Interested in:
 
