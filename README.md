@@ -1,69 +1,315 @@
-<!--
-**amartadey/amartadey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-> Web Design is so easy until you know the rules. - C. Karmakar
+# 👋 Hi, I'm Chiranjit Karmakar
 
-> Design is easy if you understand the composition properly. - C. Karmakar
-***
-- 🔭 I’m currently working on - Budget Tracker using Vanilla JavaScript
-- 🌱 I’m currently learning - JavaScript, React JS, HTML, CSS, PHP, WordPress UI/UX Design
-- 📫 How to reach me: chiranjit.rick002@gmail.com
-- :globe_with_meridians: [My Portfolio Website](https://chiranjit2020.github.io)
-- [Zindex Framework](https://zindex-framework.netlify.app/)
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-***
-![Chiranjit's github stats](https://github-readme-stats.vercel.app/api?username=chiranjit2020&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjit2020)](https://github.com/anuraghazra/github-readme-stats)
-***
-### My creations -
+### Full Stack Web Developer · Designer · Mentor · Systems Thinker
 
-##### [1. BACK2TOP JS](https://github.com/chiranjit2020/back2top)
+I build web systems, developer tools, and experiments around **how software actually works**.
 
-##### [2. UPOR JS](https://github.com/chiranjit2020/upor-js)
+My interests sit somewhere between **web development, backend engineering, networking, databases, security, and UI systems**.
 
-##### [3. LIFT KARA DE JS](https://github.com/chiranjit2020/lift-kara-de)
+I don't particularly enjoy learning technologies just to collect them.
 
-##### [4. Sandesh JS Library (Fetch API)](https://github.com/chiranjit2020/sandesh-lib)
+I prefer understanding **why something exists, what problem it solves, what happens underneath it, and where its limitations are.**
 
-##### [5. Web Resourses*](https://github.com/chiranjit2020/docs-resourses)
+---
 
-##### [6. Weather App](https://github.com/chiranjit2020/Weather-App)
+## 🧠 How I Think About Engineering
 
-##### [7. PhotoGallery](https://github.com/learncomputeracademy/PhotoGallery)
+> **Don't memorize the abstraction. Understand the machine underneath it.**
 
-##### [8. Smooth Banner Slider](https://github.com/learncomputeracademy/banner-slider)
+A framework, library, protocol, database, or design pattern is useful to me only when I understand the problem that created it.
 
-##### [9. Glassmorphism Calculator](https://github.com/chiranjit2020/glass-calculator)
+That's why I enjoy going from:
 
-##### [10. Calender](https://github.com/chiranjit2020/calender)
+`Browser → Network → Protocol → Server → Application → Database → Storage`
 
-##### [11. Code Editor(v1.1 Beta)](https://github.com/chiranjit2020/lca-editor)
+and from:
 
-##### [12. Ratio Calculator](https://github.com/chiranjit2020/ratio-calculator)
+`HTML → CSS → Layout Engine → Rendering → Interaction → Runtime`
 
-##### [13. Navbar Active/Remove class](https://github.com/chiranjit2020/navbar)
+rather than treating each layer as an isolated technology.
 
-##### [14. CSS Lightbox(No Js)](https://github.com/chiranjit2020/css-lightbox)
+I'm particularly interested in building systems that **adapt to reality instead of forcing reality into predefined categories.**
 
-##### [15. TODO List](https://github.com/chiranjit2020/todolist)
+---
 
-##### [16. CSS Accordion](https://github.com/chiranjit2020/css-accordion)
+## ⚙️ What I'm Working Toward
 
-##### [17. LCA Docs](https://github.com/learncomputeracademy/docs-resourse)
+### Adaptive UI / Responsive Engineering
 
-##### [18. Find GitHub Users](https://learncomputeracademy.github.io/github-profile/)
+I'm exploring an alternative to traditional breakpoint-driven responsive design.
 
-##### [19. Content Placeholder](https://chiranjit2020.github.io/content-placeholder/index.html)
+Instead of thinking:
 
-##### [20. Double Vertical Slider](https://chiranjit2020.github.io/double-vertical-slider/index.html)
+```text
+mobile
+tablet
+desktop
+```
 
-##### [21. Button Ripple Effect](https://chiranjit2020.github.io/button-ripple-effect/index.html)
+I want interfaces to reason about:
 
-##### [22. Budget Tracker](https://chiranjit2020.github.io/budget-tracker/index.html)
+```text
+available space
+        ↓
+constraints
+        ↓
+content requirements
+        ↓
+space allocation
+        ↓
+composition
+```
+
+The goal is a runtime **responsive engine** capable of sensing its environment and reorganizing an interface according to actual constraints.
+
+Not another Bootstrap.
+
+Not another Tailwind.
+
+A different way of thinking about responsive interfaces.
+
+---
+
+## 🛠️ Current Technical World
+
+### Frontend
+
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js`
+
+I'm especially interested in:
+
+* Modern CSS
+* CSS architecture
+* Layout systems
+* Design systems
+* Runtime UI composition
+* Accessibility
+* Browser behavior
+
+### Backend
+
+`PHP` · `Node.js` · `Express` · `Python` · `Laravel`
+
+Interested in:
+
+* API architecture
+* Authentication & authorization
+* WebSockets
+* Real-time systems
+* Backend security
+* Distributed systems
+* Performance
+
+### Data
+
+`MySQL` · `PostgreSQL` · `MongoDB` · `Mongoose` · `Redis` · `Neo4j`
+
+Currently going deeper into:
+
+* Database internals
+* Query design
+* Caching
+* Data modeling
+* Distributed data systems
+
+### Systems & Networking
+
+`Linux` · `Git` · `Docker` · `TCP/IP` · `DNS` · `HTTP/HTTPS` · `SSH`
+
+I'm increasingly interested in what happens **below the application layer**:
+
+```text
+Electron
+   ↓
+CPU / Memory
+   ↓
+Operating System
+   ↓
+Network Interface
+   ↓
+Wi-Fi / Ethernet
+   ↓
+Router
+   ↓
+Internet
+   ↓
+Server
+   ↓
+Application
+   ↓
+Database
+```
+
+Understanding this entire path is one of my long-term goals. [Visit Website](https://gitussr.github.io/how-internet-works/)
+
+---
+
+## 🔬 Things I'm Exploring
+
+* Backend engineering
+* System design
+* Networking
+* Linux
+* Distributed systems
+* Web security
+* Database architecture
+* WebSockets & real-time communication
+* WebRTC
+* Modern CSS
+* Adaptive interface systems
+* Developer tooling
+* Computer science fundamentals
+
+---
+
+## 🚧 Selected Projects & Experiments
+
+Rather than maintaining a wall of repository links, I prefer keeping this section focused on projects that represent **how I think and build**.
+
+### 🧩 CSS Responsive Engine
+
+A runtime-driven responsive system exploring how interfaces can dynamically calculate available space and reconstruct their layout without relying primarily on conventional device breakpoints.
+
+**Stack:** JavaScript · TypeScript · CSS · Custom Properties
+
+---
+
+### 🚀 Featured Projects
+
+* 🌐 **[How Internet Works](https://gitussr.github.io/how-internet-works/)** — An in-depth exploration of how the Internet actually works, from networks and protocols to servers and data flow.
+  [GitHub](https://github.com/gitussr/how-internet-works)
+
+* 💬 **[LAN Messenger](https://github.com/gitussr/lan-messenger)** — A local-network messaging application exploring peer-to-peer communication and networking concepts.
+
+* 🐛 **[CWP](https://github.com/gitussr/cwp)** — A developer-focused project built as part of my experimentation with web development and tooling.
+
+* 🔀 **[GitBit](https://github.com/gitussr/gitbit)** — A Git-focused project exploring version control concepts and developer workflows.
+
+---
+
+### 🌐 Real-Time Communication
+
+Experiments with:
+
+* WebSockets
+* Socket.IO
+* WebRTC
+* Signaling
+* Real-time server architecture
+
+The goal is to understand what actually happens when two browsers communicate rather than simply calling an abstraction.
+
+---
+
+### 🛒 Full Stack Web Applications
+
+Building practical applications involving:
+
+* Authentication
+* Authorization
+* APIs
+* Databases
+* Payments / commerce
+* Caching
+* Security
+* Deployment
+
+---
+
+## 🐍 GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+<p align="center">
+  <sub>My GitHub activity, slowly being eaten one commit at a time.</sub>
+</p>
+
+---
+
+## 🎓 Teaching
+
+I'm also a developer and mentor at **Learn Computer Academy**, where I've worked with **100+ students**.
+
+I created **Codeworm**, a programming and computer-science focused platform where I share what I'm learning and building.
+
+I believe teaching is one of the best ways to discover whether you actually understand something.
+
+If I cannot explain **why** something exists, I probably haven't understood it deeply enough.
+
+---
+
+## 📚 My Learning Philosophy
+
+I don't want a roadmap that looks like:
+
+```text
+Learn X
+↓
+Learn Y
+↓
+Learn Z
+↓
+Get certificate
+```
+
+I prefer:
+
+```text
+Problem
+   ↓
+Why does it exist?
+   ↓
+What existed before it?
+   ↓
+What does it solve?
+   ↓
+How does it work?
+   ↓
+What are its trade-offs?
+   ↓
+How can I build it?
+```
+
+That's how I'm approaching computer science, backend engineering, networking, and systems.
+
+---
+
+## 🌎 Beyond Frameworks
+
+I'm interested in the layers that most developers eventually depend on but don't always get the opportunity to explore deeply:
+
+```text
+        Applications
+             │
+        Frameworks
+             │
+        Runtime / VM
+             │
+        Operating System
+             │
+        Networking
+             │
+        Hardware
+```
+
+The deeper I go, the more interesting software becomes.
+
+---
+
+## 📫 Find Me
+
+**Codeworm** — Programming · Cybersecurity · Computer Science
+
+I'm currently focused on becoming a stronger **backend / systems-oriented engineer** while continuing to experiment with unconventional approaches to web development and UI engineering.
+
+---
+
+<p align="center">
+  <b>Build things. Break abstractions. Understand why they work.</b>
+</p>
+
+<p align="center">
+  <sub>© Chiranjit Karmakar</sub>
+</p>
