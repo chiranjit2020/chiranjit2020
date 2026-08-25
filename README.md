@@ -181,7 +181,7 @@ A runtime-driven responsive system exploring how interfaces can dynamically calc
 
 * 👉 **[LAN Messenger](https://github.com/gitussr/lan-messenger)** — A local-network messaging application exploring peer-to-peer communication and networking concepts.
 
-* 👉 **[CWP](https://github.com/gitussr/cwp)** — A developer-focused project built as part of my experimentation with web development and tooling.
+* 👉 **[CWP](https://www.chiranjitkarmakar.com/cwp/docs/)** — A developer-focused project built as part of my experimentation with web development and tooling.
 
 * 👉 **[GitBit](https://github.com/gitussr/gitbit)** — A Git-focused project exploring version control concepts and developer workflows.
 
