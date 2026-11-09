@@ -6,15 +6,15 @@ I build web systems, developer tools, and experiments around **how software actu
 
 My interests sit somewhere between **web development, backend engineering, networking, databases, security, and UI systems**.
 
-I don't particularly enjoy learning technologies just to collect them.
+I don't particularly enjoy learning technologies to collect them.
 
 I prefer understanding **why something exists, what problem it solves, what happens underneath it, and where its limitations are.**
 
 ---
 
-## 🧠 How I Think About Engineering
+## How I Think About Engineering
 
-> **Don't memorize the abstraction. Understand the machine underneath it.**
+> **Don't memorise the abstraction. Understand the machine underneath it.**
 
 A framework, library, protocol, database, or design pattern is useful to me only when I understand the problem that created it.
 
@@ -60,7 +60,7 @@ space allocation
 composition
 ```
 
-The goal is a runtime **responsive engine** capable of sensing its environment and reorganizing an interface according to actual constraints.
+The goal is a runtime **responsive engine** capable of sensing its environment and reorganising an interface according to actual constraints.
 
 Not another Bootstrap.
 
@@ -84,7 +84,7 @@ I'm especially interested in:
 * Design systems
 * Runtime UI composition
 * Accessibility
-* Browser behavior
+* Browser behaviour
 
 ### Backend
 
@@ -109,7 +109,7 @@ Currently going deeper into:
 * Database internals
 * Query design
 * Caching
-* Data modeling
+* Data modelling
 * Distributed data systems
 
 ### Systems & Networking
@@ -164,7 +164,7 @@ Understanding this entire path is one of my long-term goals. [Visit Website](htt
 
 ## 🚧 Selected Projects & Experiments
 
-Rather than maintaining a wall of repository links, I prefer keeping this section focused on projects that represent **how I think and build**.
+Rather than listing a wall of repository links, I prefer to keep this section focused on projects that show **how I think and build**.
 
 ### 🧩 CSS Responsive Engine
 
@@ -209,7 +209,7 @@ Building practical applications involving:
 * Authorization
 * APIs
 * Databases
-* Payments / commerce
+* Payments/commerce
 * Caching
 * Security
 * Deployment
@@ -232,7 +232,7 @@ Building practical applications involving:
 
 I'm also a developer and mentor at **Learn Computer Academy**, where I've worked with **100+ students**.
 
-I created **Codeworm**, a programming and computer-science focused platform where I share what I'm learning and building.
+I created **Codeworm**, a programming- and computer-science-focused platform where I share what I'm learning and building.
 
 I believe teaching is one of the best ways to discover whether you actually understand something.
 
